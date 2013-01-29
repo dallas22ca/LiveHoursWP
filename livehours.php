@@ -33,7 +33,7 @@ function livehours_tag() {
 ?>
 <script type="text/javascript">
 	var _lhs = _lhs || [];
-	_lhs.push(['_setAccount', 'CzCLpWk2']);
+	_lhs.push(['_setAccount', '<?php echo get_option( 'livehours_token' ); ?>']);
 
 	(function() {
 		var lh = document.createElement('script'); lh.type = 'text/javascript'; lh.async = true;
