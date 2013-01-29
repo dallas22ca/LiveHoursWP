@@ -19,7 +19,7 @@ This plugin makes it easy to install LiveHours on your Wordpress site.
 
 == Installation ==
 
-1. Search for `LiveHours` in the 'Plugin Gallery' and use the one-click install *OR* [Download](https://github.com/dallas22ca/LiveHoursWP/downloads) the LiveHours.co plugin and Upload the `livehours` folder to the `/wp-content/plugins/` directory in your own WordPress installation.
+1. Search for `LiveHours` in the 'Plugin Gallery' and use the one-click install *OR* [Download](https://github.com/dallas22ca/LiveHoursWP) the LiveHours.co plugin and Upload the `livehours` folder to the `/wp-content/plugins/` directory in your own WordPress installation.
 
 == Changelog ==
 
