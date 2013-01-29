@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Livehours.co Live Chat Plugin
+Plugin Name: Livehours.co Live Chat
 Description: Add Live Chat Support for your website (messages come to your phone a text messages).
 Version: 1.0.0
 Author: LiveHours.co

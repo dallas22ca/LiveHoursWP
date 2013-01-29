@@ -1,4 +1,4 @@
-=== Livehours.co Live Chat Plugin ===
+=== Livehours.co Live Chat ===
 Contributors: dallas22ca
 Tags: livehours, livehours.co, live chat, live support
 Requires at least: 3.4.1
