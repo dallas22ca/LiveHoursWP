@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Livehours.co Live Chat Plugin ===
 Contributors: dallas22ca
 Tags: livehours, livehours.co, live chat, live support
 Requires at least: 3.4.1
@@ -7,7 +7,7 @@ Stable tag: 1.0.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add Live Chat Support for your website (the messages come to your phone a text messages).
+Add Live Chat Support for your website (messages come to your phone a text messages).
 
 == Description ==
 
